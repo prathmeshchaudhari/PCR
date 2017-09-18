@@ -1,0 +1,24 @@
+Package: PCR
+Type: Package
+Title: Earthquake Data
+Version: 0.1.0
+Author: Prathmesh Chaudhari
+Maintainer: Prathmesh Chaudhari <prathmesh299@gmail.com>
+Description: This package is the capstone for the mastering software development in R.
+  The package is concerned with visualizing NOAA earthquak data. 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
+Imports:
+  ggplot2,
+  dplyr,
+  readr,
+  stringr,
+  grid,
+  lubridate,
+  leaflet
