@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/prathmeshchaudhari/PCR.svg?branch=master)](https://travis-ci.org/prathmeshchaudhari/PCR)
 
 # PCR
 

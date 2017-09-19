@@ -4,3 +4,7 @@ language: R
 sudo: false
 cache: packages
 warnings_are_errors: false
+
+language: java
+install:
+- sudo R CMD javareconf
